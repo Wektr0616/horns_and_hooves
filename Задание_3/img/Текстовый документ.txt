@@ -1,0 +1,7 @@
+<p align="center" ><iframe src="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\fullimg\1.jpg" name="color" width="500" height="500"></iframe>
+<a href="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\fullimg\1.jpg" target="color"><img src="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\preview\15.jpg"></a>
+<a href="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\fullimg\2.jpg" target="color"><img src="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\preview\25.jpg"></a>
+<a href="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\fullimg\3.jpg" target="color"><img src="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\preview\35.jpg"></a>
+<a href="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\fullimg\4.jpg" target="color"><img src="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\preview\45.jpg"></a>
+<a href="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\fullimg\5.jpg" target="color"><img src="C:\Users\opari\Desktop\УЧЕБНАЯ_ПРАКТИКА_УП_ПМ_05\СДЕЛАННЫЕ ЗАДАНИЯ\Задание_2\img\preview\55.jpg"></a>
+</p>
