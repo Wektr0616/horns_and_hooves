@@ -1,0 +1,166 @@
+body {
+    background: linear-gradient(to right, #ff0000, #0000ff);
+    height: 100vh; 
+    margin: 0; 
+}
+a {
+    color: black; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+}
+
+a:visited {
+    color: black; 
+}
+
+a:hover {
+    text-decoration: underline; 
+    color: rgb(0, 0, 0); 
+}
+
+
+body {
+     font-family: 'Verdana', sans-serif; 
+    line-height: 1.6; 
+    margin: 0; 
+    padding: 20px; 
+    background-color: #f4f4f4; 
+}
+
+
+h1, h2 {
+    text-align: center; 
+    color: #333; 
+}
+
+
+nav ul {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+nav ul li {
+    display: inline; 
+    margin: 0 15px; 
+}
+
+p {
+    color: #333;
+    font-family: 'Arial', sans-serif; 
+}
+
+main {
+    background: white; 
+    padding: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+}
+
+footer {
+    text-align: left; 
+    margin-top: 20px; 
+    color: #777; 
+}
+
+.scroll-to-top {
+    position: fixed; 
+    bottom: 20px; 
+    right: 20px; 
+    background-color: #316c54;  
+    color: white; 
+    border: none; 
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 15px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease, transform 0.3s ease; 
+}
+
+.scroll-to-top:hover {
+    background-color: #c89a1e; 
+    transform: scale(1.05); 
+}
+
+.scroll-to-top:focus {
+    outline: none; 
+}
+
+body {
+    text-align: center; 
+}
+
+.gallery {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+}
+
+.gallery img {
+    width: 150px; 
+    height: auto;
+    transition: 0.3s; 
+}
+
+.caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7); 
+    color: white;
+    text-align: center;
+    opacity: 0; 
+    transition: opacity 0.3s; 
+}
+
+.gallery:hover .caption {
+    opacity: 1; 
+}
+img {
+    border: 3px dotted blue; 
+    width: 100px; 
+    height: auto; 
+    border-radius: 30%; 
+}
+.menu a {
+    color: #ff5733; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+.menu a:hover {
+    color: #c70039; 
+    text-decoration: underline; 
+}
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+    margin: 20px 0; 
+    font-family: 'Arial', sans-serif;
+}
+th, td {
+    border: 3px solid #3498db; 
+    padding: 10px; 
+    text-align: left; 
+}
+
+th {
+    background-color: #2980b9; 
+    color: white; 
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2; 
+}
+
+tr:hover {
+    background-color: #d1e7fd; 
+}
+.menu a.external-link {
+    color: #e74c3c; 
+    font-weight: bold; 
+}
+
+.menu a.external-link:hover {
+    text-decoration: underline; 
+}
